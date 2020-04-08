@@ -8,7 +8,7 @@
             "green": 0,
             "blue": 5
         },
-        "towing-capable": false,
+        "towing-capable": true,
         "wheel": [
             { "where": "left-front", "psi": 34.0 },
             { "where": "right-front", "psi": 32.3 },
