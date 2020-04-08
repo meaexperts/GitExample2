@@ -1,0 +1,19 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Yaris",
+        "year": 2008,
+        "color": {
+            "red": 255,
+            "green": 0,
+            "blue": 5
+        },
+        "towing-capable": false,
+        "wheel": [
+            { "where": "left-front", "psi": 34.0 },
+            { "where": "right-front", "psi": 32.3 },
+            { "where": "right-rear", "psi": 37.2 },
+            { "where": "left-rear", "psi": null }
+        ]
+    }
+}
